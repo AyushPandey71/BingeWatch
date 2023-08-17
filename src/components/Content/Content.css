@@ -1,0 +1,47 @@
+.media {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  padding: 5px;
+  margin: 5px 0;
+  background-color: #146C94;
+  position: relative;
+}
+
+.media:hover {
+  background-color: white;
+  color: #146C94;
+  border: 2px solid #146C94;
+}
+
+@media (max-width: 550px) {
+  .media {
+    width: 100%;
+  }
+}
+
+.poster {
+  display: flex;
+  padding-bottom: 2%;
+}
+
+.title {
+  width: 100%;
+  display: inline-block;
+  font-size: 13px;
+  white-space: nowrap;
+  min-width: 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.title:hover {
+  overflow: visible;
+  white-space: normal;
+}
+
+.subTitle {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
