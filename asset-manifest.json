@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cef482c9.css",
+    "main.js": "/static/js/main.e0103073.js",
+    "static/media/poppins-all-400-normal.woff": "/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/BingeLogo.png": "/static/media/BingeLogo.808fc13de5e2fe2ca058.png",
+    "static/media/poppins-devanagari-400-normal.woff2": "/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "index.html": "/index.html",
+    "main.cef482c9.css.map": "/static/css/main.cef482c9.css.map",
+    "main.e0103073.js.map": "/static/js/main.e0103073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef482c9.css",
+    "static/js/main.e0103073.js"
+  ]
+}
